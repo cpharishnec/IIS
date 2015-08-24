@@ -1,4 +1,3 @@
-#
 class iis {
   iis::manage_app_pool {'www.internalapi.co.uk':
     enable_32_bit           => true,
